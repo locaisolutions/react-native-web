@@ -54,7 +54,7 @@ describe('apis/StyleSheet/createReactDOMStyle', () => {
         display: 'flex',
         flexGrow: 1,
         flexShrink: 1,
-        flexBasis: '0px'
+        flexBasis: '0%'
       });
     });
 
@@ -63,7 +63,7 @@ describe('apis/StyleSheet/createReactDOMStyle', () => {
         display: 'flex',
         flexGrow: 10,
         flexShrink: 1,
-        flexBasis: '0px'
+        flexBasis: '0%'
       });
     });
 
